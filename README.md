@@ -1,0 +1,1 @@
+# Extracting-Image-and-Mask-from-a-Video-Segmentation-Dataset
